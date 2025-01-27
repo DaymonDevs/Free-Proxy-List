@@ -1,0 +1,645 @@
+{
+    "HTTPS": [
+        {
+            "COUNTRY": "Angola",
+            "PORT": 8080,
+            "IP": "196.29.192.226",
+            "COUNTRY_SHORT": "AO",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Argentina",
+            "PORT": 10000,
+            "IP": "164.163.42.34",
+            "COUNTRY_SHORT": "AR",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Australia",
+            "PORT": 8089,
+            "IP": "170.64.175.174",
+            "COUNTRY_SHORT": "AU",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Bangladesh",
+            "PORT": 8090,
+            "IP": "103.103.88.100",
+            "COUNTRY_SHORT": "BD",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Brazil",
+            "PORT": 8888,
+            "IP": "200.174.198.86",
+            "COUNTRY_SHORT": "BR",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Canada",
+            "PORT": 3128,
+            "IP": "192.99.199.49",
+            "COUNTRY_SHORT": "CA",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "China",
+            "PORT": 38080,
+            "IP": "183.240.196.55",
+            "COUNTRY_SHORT": "CN",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "China",
+            "PORT": 7890,
+            "IP": "36.103.167.209",
+            "COUNTRY_SHORT": "CN",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Colombia",
+            "PORT": 999,
+            "IP": "45.65.138.48",
+            "COUNTRY_SHORT": "CO",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Colombia",
+            "PORT": 999,
+            "IP": "45.65.137.218",
+            "COUNTRY_SHORT": "CO",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Germany",
+            "PORT": 8585,
+            "IP": "91.107.196.104",
+            "COUNTRY_SHORT": "DE",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Germany",
+            "PORT": 3128,
+            "IP": "161.97.136.251",
+            "COUNTRY_SHORT": "DE",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Hong Kong SAR China",
+            "PORT": 1080,
+            "IP": "103.27.111.156",
+            "COUNTRY_SHORT": "HK",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Hungary",
+            "PORT": 18080,
+            "IP": "178.48.68.61",
+            "COUNTRY_SHORT": "HU",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 7777,
+            "IP": "103.247.22.151",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 57413,
+            "IP": "146.196.109.237",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 8080,
+            "IP": "114.9.24.210",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 8080,
+            "IP": "103.145.149.36",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 8080,
+            "IP": "103.155.190.242",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Iran",
+            "PORT": 443,
+            "IP": "31.14.122.28",
+            "COUNTRY_SHORT": "IR",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Japan",
+            "PORT": 8080,
+            "IP": "20.27.86.185",
+            "COUNTRY_SHORT": "JP",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Mexico",
+            "PORT": 999,
+            "IP": "38.158.202.121",
+            "COUNTRY_SHORT": "MX",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Philippines",
+            "PORT": 8090,
+            "IP": "122.3.41.154",
+            "COUNTRY_SHORT": "PH",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Russia",
+            "PORT": 8080,
+            "IP": "31.40.248.2",
+            "COUNTRY_SHORT": "RU",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Saudi Arabia",
+            "PORT": 8080,
+            "IP": "175.110.168.62",
+            "COUNTRY_SHORT": "SA",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Singapore",
+            "PORT": 80,
+            "IP": "217.15.166.95",
+            "COUNTRY_SHORT": "SG",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Thailand",
+            "PORT": 8080,
+            "IP": "203.144.144.146",
+            "COUNTRY_SHORT": "TH",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "United Kingdom",
+            "PORT": 3128,
+            "IP": "51.89.96.237",
+            "COUNTRY_SHORT": "GB",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "United States",
+            "PORT": 443,
+            "IP": "98.8.195.160",
+            "COUNTRY_SHORT": "US",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "United States",
+            "PORT": 7878,
+            "IP": "208.87.243.199",
+            "COUNTRY_SHORT": "US",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "United States",
+            "PORT": 33333,
+            "IP": "47.90.205.231",
+            "COUNTRY_SHORT": "US",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 10017,
+            "IP": "171.237.237.218",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 46273,
+            "IP": "103.226.251.105",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 10027,
+            "IP": "171.237.237.218",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 8080,
+            "IP": "222.252.194.204",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "https"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 10001,
+            "IP": "115.72.174.144",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "https"
+        }
+    ],
+    "HTTP": [
+        {
+            "COUNTRY": "Argentina",
+            "PORT": 80,
+            "IP": "190.195.225.34",
+            "COUNTRY_SHORT": "AR",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Australia",
+            "PORT": 8089,
+            "IP": "170.64.175.174",
+            "COUNTRY_SHORT": "AU",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Bangladesh",
+            "PORT": 96,
+            "IP": "103.60.173.2",
+            "COUNTRY_SHORT": "BD",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Brazil",
+            "PORT": 8888,
+            "IP": "200.174.198.86",
+            "COUNTRY_SHORT": "BR",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Brazil",
+            "PORT": 3128,
+            "IP": "201.91.82.155",
+            "COUNTRY_SHORT": "BR",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Canada",
+            "PORT": 3128,
+            "IP": "192.99.199.49",
+            "COUNTRY_SHORT": "CA",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "China",
+            "PORT": 38080,
+            "IP": "183.240.196.55",
+            "COUNTRY_SHORT": "CN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "China",
+            "PORT": 443,
+            "IP": "183.240.46.42",
+            "COUNTRY_SHORT": "CN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "China",
+            "PORT": 7890,
+            "IP": "36.103.167.209",
+            "COUNTRY_SHORT": "CN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "China",
+            "PORT": 80,
+            "IP": "39.105.25.91",
+            "COUNTRY_SHORT": "CN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "China",
+            "PORT": 8089,
+            "IP": "218.78.55.172",
+            "COUNTRY_SHORT": "CN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Colombia",
+            "PORT": 999,
+            "IP": "45.65.138.48",
+            "COUNTRY_SHORT": "CO",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Ecuador",
+            "PORT": 999,
+            "IP": "45.70.236.194",
+            "COUNTRY_SHORT": "EC",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Egypt",
+            "PORT": 1976,
+            "IP": "82.129.233.4",
+            "COUNTRY_SHORT": "EG",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Egypt",
+            "PORT": 1982,
+            "IP": "41.33.203.115",
+            "COUNTRY_SHORT": "EG",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Germany",
+            "PORT": 8585,
+            "IP": "91.107.196.104",
+            "COUNTRY_SHORT": "DE",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Germany",
+            "PORT": 3128,
+            "IP": "161.97.136.251",
+            "COUNTRY_SHORT": "DE",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Hong Kong SAR China",
+            "PORT": 1080,
+            "IP": "103.27.111.156",
+            "COUNTRY_SHORT": "HK",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Hungary",
+            "PORT": 18080,
+            "IP": "178.48.68.61",
+            "COUNTRY_SHORT": "HU",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "India",
+            "PORT": 83,
+            "IP": "43.243.174.3",
+            "COUNTRY_SHORT": "IN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 57413,
+            "IP": "146.196.109.237",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 8080,
+            "IP": "103.156.141.87",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 6080,
+            "IP": "103.227.187.3",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 89,
+            "IP": "103.154.77.48",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 64999,
+            "IP": "103.167.30.238",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 8080,
+            "IP": "116.254.99.62",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 8080,
+            "IP": "103.148.130.6",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "PORT": 7777,
+            "IP": "103.247.22.151",
+            "COUNTRY_SHORT": "ID",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Iran",
+            "PORT": 443,
+            "IP": "31.14.122.28",
+            "COUNTRY_SHORT": "IR",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Japan",
+            "PORT": 8080,
+            "IP": "20.27.86.185",
+            "COUNTRY_SHORT": "JP",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Libya",
+            "PORT": 1981,
+            "IP": "154.73.108.206",
+            "COUNTRY_SHORT": "LY",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Mexico",
+            "PORT": 8081,
+            "IP": "187.190.127.212",
+            "COUNTRY_SHORT": "MX",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Mexico",
+            "PORT": 999,
+            "IP": "38.158.202.121",
+            "COUNTRY_SHORT": "MX",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Mexico",
+            "PORT": 8080,
+            "IP": "187.217.197.236",
+            "COUNTRY_SHORT": "MX",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Netherlands",
+            "PORT": 9401,
+            "IP": "147.75.34.92",
+            "COUNTRY_SHORT": "NL",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Philippines",
+            "PORT": 8082,
+            "IP": "115.147.20.176",
+            "COUNTRY_SHORT": "PH",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Russia",
+            "PORT": 8080,
+            "IP": "31.40.248.2",
+            "COUNTRY_SHORT": "RU",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Singapore",
+            "PORT": 18080,
+            "IP": "47.236.8.166",
+            "COUNTRY_SHORT": "SG",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Singapore",
+            "PORT": 80,
+            "IP": "217.15.166.95",
+            "COUNTRY_SHORT": "SG",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Thailand",
+            "PORT": 8080,
+            "IP": "203.144.144.146",
+            "COUNTRY_SHORT": "TH",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Ukraine",
+            "PORT": 37793,
+            "IP": "159.224.243.185",
+            "COUNTRY_SHORT": "UA",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "United Kingdom",
+            "PORT": 3128,
+            "IP": "51.89.96.237",
+            "COUNTRY_SHORT": "GB",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "United States",
+            "PORT": 443,
+            "IP": "98.8.195.160",
+            "COUNTRY_SHORT": "US",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "United States",
+            "PORT": 9812,
+            "IP": "12.7.109.1",
+            "COUNTRY_SHORT": "US",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "United States",
+            "PORT": 33333,
+            "IP": "47.90.205.231",
+            "COUNTRY_SHORT": "US",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "United States",
+            "PORT": 7878,
+            "IP": "208.87.243.199",
+            "COUNTRY_SHORT": "US",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Venezuela",
+            "PORT": 999,
+            "IP": "45.184.103.119",
+            "COUNTRY_SHORT": "VE",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 46273,
+            "IP": "103.226.251.105",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 10034,
+            "IP": "171.237.237.218",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 10017,
+            "IP": "171.237.237.218",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 8080,
+            "IP": "113.160.132.195",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 10001,
+            "IP": "115.72.174.144",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 8080,
+            "IP": "27.74.247.173",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 8080,
+            "IP": "222.252.194.204",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "http"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "PORT": 10027,
+            "IP": "171.237.237.218",
+            "COUNTRY_SHORT": "VN",
+            "PROTOCOL": "http"
+        }
+    ],
+    "SOCKS5": [],
+    "SOCKS4": []
+}
