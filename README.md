@@ -1,2 +1,2 @@
 # Free-Proxy-List
-Collection of working proxy servers in JSON format
+Collection of working HTTP/S proxy servers in JSON format
