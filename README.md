@@ -2,7 +2,7 @@
 Collection of working HTTP/S proxy servers in JSON format.
 
 ## Description
-A collection of working HTTP/S proxy servers available in JSON format. This list is regularly updated and can be accessed through the provided link. These proxies are checked multiple times, so most of them are working.
+These proxies are checked multiple times by my own proxy checker to ensure they are all working, but since they are public proxies, some may not be stable or may not work.
 
 ## Download
 [Free Proxy List - JSON Format](https://raw.githubusercontent.com/DaymonDevs/Free-Proxy-List/master/proxies.json)
