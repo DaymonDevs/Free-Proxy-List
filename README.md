@@ -7,4 +7,4 @@ These proxies are checked multiple times by my own proxy checker to ensure they 
 ## Download
 [Free Proxy List - JSON Format](https://raw.githubusercontent.com/DaymonDevs/Free-Proxy-List/master/proxies.json)
 
-**Note:** These proxies are for educational purposes only and do not promote or endorse any illegal activities. If you use this list, please give appropriate credits.
+**Note:** This list is for educational purposes only and does not promote or endorse any illegal activities. If you use this list, please give appropriate credits.
