@@ -1,11 +1,11 @@
 {
     "HTTPS": [
         {
-            "COUNTRY": "",
-            "PORT": "",
-            "IP": "",
-            "COUNTRY_SHORT": "",
-            "PROTOCOL": ""
+            "COUNTRY_SHORT": "AL",
+            "PROTOCOL": "https",
+            "COUNTRY": "Albania",
+            "PORT": "8989",
+            "IP": "79.106.229.118"
         },
         {
             "COUNTRY_SHORT": "AL",
@@ -2383,11 +2383,11 @@
     ],
     "HTTP": [
         {
-            "COUNTRY": "",
-            "PORT": "",
-            "IP": "",
-            "COUNTRY_SHORT": "",
-            "PROTOCOL": ""
+            "COUNTRY_SHORT": "AL",
+            "PROTOCOL": "http",
+            "COUNTRY": "Albania",
+            "PORT": "8088",
+            "IP": "77.242.30.9"
         },
         {
             "COUNTRY_SHORT": "DZ",
